@@ -48,3 +48,15 @@ developer does not need your patient records or password to handle a bug report.
 
 This repository contains public support and privacy information only. It does
 not contain the Callview application source or clinical data.
+
+## Acknowledgements
+
+[![Made with Slint](assets/made-with-slint.png)](https://slint.dev/)
+
+Callview uses [Slint](https://slint.dev/) for its native user interface.
+
+The offline demonstration and demo screenshots use images adapted from
+John Hutchinson's [Greyhound pelvic limb CT scan](https://figshare.com/articles/dataset/greyhound_pelvic_limb_CT_scan/7240520),
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The demo contains
+48 converted and resized JPEG slices for each of the axial, coronal and
+sagittal views. These are veterinary images, with no human patient data.
