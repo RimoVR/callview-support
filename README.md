@@ -3,7 +3,7 @@
 Callview is a native, read-only CT review companion for authorized CHILI
 WebViewer users on iPhone and iPad. Your organization supplies and manages
 your CHILI access. Callview does not create or change medical records and is
-not a replacement for a diagnostic workstation.
+not a replacement for a diagnostic workstation. The interface is in German.
 
 ## Getting started
 
